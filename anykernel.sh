@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel by 595
+kernel.string=Kernel by c1own
 do.devicecheck=1
 do.modules=1
 do.systemless=0
